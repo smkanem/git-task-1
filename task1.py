@@ -1,5 +1,5 @@
 def mx(a):
-    r = 0
+    r = a[0]
     for i in a:
         if i > r:
             r = i
